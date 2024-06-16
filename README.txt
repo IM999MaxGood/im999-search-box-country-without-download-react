@@ -6,14 +6,14 @@ install node.js => https://nodejs.org/en/
     
 run npm install -g npm
 
-do jobs in => https://stackoverflow.com/questions/55166789/how-to-manually-configure-a-minimal-setup-for-react-without-create-react-app
+folder act without must be space
+go to folder act
 
+do jobs in => https://stackoverflow.com/questions/55166789/how-to-manually-configure-a-minimal-setup-for-react-without-create-react-app
     npm init
     npm install --save react react-dom
     npm install --save-dev webpack webpack-cli @babel/core babel-loader @babel/preset-react
 
-
-folder act without must be space
 
 run npm install --save-dev style-loader css-loader
 
