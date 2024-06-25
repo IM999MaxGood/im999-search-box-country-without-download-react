@@ -11,7 +11,7 @@ im999-search-box-country-without-download-react is text box for search and selec
 >I tested it a little
 
 > [!IMPORTANT]  
-> Thanks the God :)💐😀🌸🌺🌹🌼🌷
+> Thanks **the God** :)💐😀🌸🌺🌹🌼🌷
 
 [facebook: facebook.com/Iounes.Manoochehri](https://facebook.com/Iounes.Manoochehri)
 
